@@ -1,0 +1,6 @@
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Exer1\bin\Debug\Exer1.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Exer1\bin\Debug\Exer1.pdb
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Exer1\obj\x86\Debug\Exer1.exe
+C:\Users\Aluno_2\AppData\Local\Temporary Projects\Exer1\obj\x86\Debug\Exer1.pdb
+G:\Etec II - 2 SEM\DS I\ds-i\Exer1\Exer1\obj\x86\Debug\Exer1.exe
+G:\Etec II - 2 SEM\DS I\ds-i\Exer1\Exer1\obj\x86\Debug\Exer1.pdb
